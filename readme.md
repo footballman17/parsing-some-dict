@@ -35,12 +35,7 @@
 | ClearFileError      | Ошибка при очистке файла |
 | IncorrectPathError      | Неправильный путь к файлу |
 | UnknownParserError | Неизвестный тип парсера |
-| VoidSourceDataError | Пустой файл для перевода|
+| VoidSourceDataError | Пустой файл для перевода |
 | VoidStringError | Пустая строка для перевода|
 | WooordhuntApiError | Ошибка от сервера wooordhunt.ru|
 | YandexApiError | Ошибка от сервера Яндекса |
-
-
-
-
-
