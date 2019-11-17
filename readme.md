@@ -39,3 +39,5 @@
 | VoidStringError | Пустая строка для перевода|
 | WooordhuntApiError | Ошибка от сервера wooordhunt.ru|
 | YandexApiError | Ошибка от сервера Яндекса |
+
+- При разработке использовался ESLint от [Wesbos](https://github.com/wesbos/eslint-config-wesbos), в основе которого лежит [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
