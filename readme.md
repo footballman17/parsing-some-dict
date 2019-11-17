@@ -1,3 +1,9 @@
+**Node.js,
+JS (ES 2015+),
+axios,
+cheerio,
+jQuery*
+
 <p align="center"><img src="https://www.sayidaty.net/sites/default/files/2018/12/19/4698516-1010955051.png" width="200"></p>
 
 Парсер online-переводчиков
