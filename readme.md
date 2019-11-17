@@ -1,3 +1,9 @@
+**Node.js,
+JS (ES 2015+),
+axios,
+cheerio,
+jQuery*
+
 <p align="center"><img src="https://www.sayidaty.net/sites/default/files/2018/12/19/4698516-1010955051.png" width="200"></p>
 
 Парсер online-переводчиков
@@ -6,9 +12,9 @@
 ### Задача
 
 Создать парсер online-переводчиков:
-- Яндекс Переводчик — режим словаря;
-- Яндекс Переводчик — режим обычного перевода текста;
-- wooordhunt.ru
+- [Яндекс Переводчик](https://translate.yandex.ru/) — режим словаря;
+- [Яндекс Переводчик](https://translate.yandex.ru/) — режим обычного перевода текста;
+- [wooordhunt.ru](https://wooordhunt.ru/)
 
 **Входные данные**
 
@@ -39,3 +45,5 @@
 | VoidStringError | Пустая строка для перевода|
 | WooordhuntApiError | Ошибка от сервера wooordhunt.ru|
 | YandexApiError | Ошибка от сервера Яндекса |
+
+- При разработке использовался ESLint от [Wesbos](https://github.com/wesbos/eslint-config-wesbos), в основе которого лежит [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
